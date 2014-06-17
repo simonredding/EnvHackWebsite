@@ -1,0 +1,22 @@
+{
+  "name": "EnvHackWebsite",
+  "version": "0.0.0",
+  "description": "Website for EnvHack",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 80"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/environmentagency/EnvHackWebsite.git"
+  },
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  },
+  "author": "Simon Redding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/environmentagency/EnvHackWebsite/issues"
+  },
+  "homepage": "https://github.com/environmentagency/EnvHackWebsite"
+}
